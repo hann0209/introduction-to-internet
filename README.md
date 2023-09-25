@@ -6,7 +6,7 @@
 ## 課程筆記區  
 
 ## 作業連結區  
-
+<p dir="auto"><a href="https://hann0209.github.io/myweb/" rel="nofollow">HW 1</a></p>
 ## 專題連結區
 
 Markdown 語法說明：https://markdown.tw/
