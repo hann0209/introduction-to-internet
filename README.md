@@ -7,7 +7,7 @@
 
 ## 作業連結區  
 <p dir="auto"><a href="https://hann0209.github.io/myweb/" rel="nofollow">HW 1</a></p>
-<a href="https://youtu.be/CiJxDRFysrI" rel="nofollow">HW 2</a>
+<a href="https://youtu.be/CiJxDRFysrI" rel="nofollow">HW 2</a></p>
 <a href="https://youtu.be/pQpx_yj_gq8" rel="nofollow">HW 3</a>
 
 ## 專題連結區
